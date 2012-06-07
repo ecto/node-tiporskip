@@ -5,3 +5,4 @@ var tips = new TipsClient({
   debug: true
 });
 
+tips.user.info('campedersen', console.log);
