@@ -8,7 +8,9 @@
     "url": "git://github.com/ecto/node-tiporskip.git"
   },
   "main": "lib/client.js",
-  "dependencies": {},
+  "dependencies": {
+    "request": "*"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
